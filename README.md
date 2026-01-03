@@ -1,5 +1,3 @@
-# automated-company-analysis
-Excel-based tool combining macroeconomic indicators, market tracking and automated company fundamental analysis using Python and public APIs.
 # Automated Company Analysis
 
 This is a personal finance analysis project built for learning and experimentation.
